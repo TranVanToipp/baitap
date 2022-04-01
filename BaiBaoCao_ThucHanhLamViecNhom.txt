@@ -1,0 +1,33 @@
+Bài báo cáo về Git:
+1, Giới thiệu về git:
+	-Là công cụ giúp quản lý source code tổ chức theo dạng dữ liệu phân tán.
+	-Giúp đồng bộ source code của team lên 1 server
+	-Hỗ trợ các thao tác kiểm tra source code trong quá trình làm việc
+ 
+2, Tại sao phải dùng git:
+	- GitHub giải quyết được các vấn đề về giao tiếp và tổ chức dự án đối
+	 	với các thành viên trong team được mạch lạc, suông sẻ hơn
+	 	là cách làm việc truyền thống 
+	- Việc tự code riêng và gửi cho nhau qua email rất mất thời gian của nhau.
+		Việc sửa code mà không sao lưu khiến cho họ phải viết lại code từ
+	 	đầu khi phần mềm bị lỗi. GitHub hỗ trợ việc lưu trữ code và quản lý
+	 	các phiên bản nên vấn đề được giải quyết.
+	-(Git giúp ghép code trong dự án 1 cách an toàn)
+
+3, Cách sử dụng git: 
+   Có 2 cách : 
+	+ Sử dụng giao diện:
+	+ Sử dụng bằng lệnh:
+	   . Các lệnh thao tác cơ bản:
+		-Git init: Tạo 1 repository mới(repo)
+		Public : Tức là ai cũng có thể xem được dự án này của bạn
+		Private: Nếu dự án của bạn chưa muốn công khai thì chọn private
+		-Git clone:Sao chép(clone) một repository
+		-Git add: Để thêm file
+		-Git status: để kiểm tra tình trạng hiện tại
+		-Git commit -m"<ghi chú>": xác nhận và lưu
+					những thay đổi của project
+		-Git push: để push code lên repo.
+ 
+4, Lợi ích của việc sử dụng git
+	(DESKTOP-53F0RAQ\SQLEXPRESS)
